@@ -1,0 +1,127 @@
+{
+    "1": {
+        "index": "Tosikasiregionen",
+        "1": {
+            "index": "Tosikasi stad",
+            "1": {
+                "index": "Tosikasi centrum",
+                "1": "Tosikasi centrum",
+                "2": "F.S. Distriktet",
+                "3": "Mafuriko"
+            }
+        },
+        "2": {
+            "index": "Yttre Tosikasi",
+            "1": "Tosikasi djungel",
+            "2": "Tosikasis yttre delar"
+        },
+        "9": "I närheten av Tosikasi"
+    },
+    "2": {
+        "index": "Asufarutoregionen",
+        "1": {
+            "index": "Asufaruto stad",
+            "1": {
+                "index": "Centrumdistriktet",
+                "1": "Centrum",
+                "2": "Saroy",
+                "3": "Nordön",
+                "4": "Vinterbyn"
+            },
+            "2": {
+                "index": "Bergdistriktet",
+                "1": "Berget",
+                "2": "Yama",
+                "3": "Hamnen",
+                "4": "Craftopia",
+                "5": "Skyskrapedistriktet"
+            },
+            "3": {
+                "index": "Gamlastandistriktet",
+                "1": "Gamla Stan",
+                "2": "Östermalm",
+                "3": "Shoppingdistriktet",
+                "4": "MangroveTopia"
+            },
+            "4": {
+                "index": "Eastport, Happa & Lynn distrikten",
+                "1": "Eastport",
+                "2": "Dol Dambo",
+                "3": "Happa",
+                "4": "Lynn",
+                "5": "Walled City"
+            },
+            "9": {
+                "index": "Okategoriserade regioner"
+            }
+        },
+        "2": {
+            "index": "Asufarutos Federerade städer",
+            "1": "Norge",
+            "2": "Itrin",
+            "3": "Bedtopia",
+            "4": "Busstopia",
+            "5": "Gurktopia",
+            "6": "Remetto",
+            "7": "Kuba",
+            "8": "Asufarutianska Jungfruöarna"
+        },
+        "3": {
+            "index": "Asufarutos övriga områden",
+            "1": "Kolonin 17A",
+            "2": "Kolonin 17B",
+            "3": "Kolonin 18 BETA",
+            "4": "Kolonin 18A",
+            "5": "Tanks lokalen",
+            "6": "Lordlandia",
+            "7": "Fabriken",
+            "8": "Le Xina",
+            "9": "Hungergames",
+            "0": {
+                "index": "Ej specificerad / Öken event stället",
+                "1": "Öken event stället"
+            }
+        }
+    },
+    "3": {
+        "index": "Birchesterregionen",
+        "1": {
+            "index": "Birchester stad",
+            "1": "Birchester Centrum"
+        },
+        "2": {
+            "index": "Birchesters Dominioner",
+            "1": "Leffes Skrot",
+            "2": "Mountcaster",
+            "3": "New Wakefield"
+        }
+    },
+    "4": {
+        "index": "Lunaregionen",
+        "1": {
+            "index": "Luna stad",
+            "1": "Luna Centrum"
+        }
+    },
+    "5": {
+        "index": "FS Medlemsstäder",
+        "1": "FS städer norr om Tosikasi",
+        "2": "FS städer öst om Tosikasi",
+        "3": "FS städer syd om Tosikasi",
+        "4": "FS städer väst om Tosikasi",
+        "5": "FS städer i Nether",
+        "6": "FS städer i End",
+        "9": "Övriga FS städer"
+    },
+    "6": {
+        "index": "Icke-FS medlemmar",
+        "1": "Icke-FS städer norr om Tosikasi",
+        "2": "Icke-FS städer öst om Tosikasi",
+        "3": "Icke-FS städer syd om Tosikasi",
+        "4": "Icke-FS städer väst om Tosikasi",
+        "5": "Icke-FS städer i Nether",
+        "6": "Icke-FS städer i End",
+        "9": "Övriga Icke-FS städer"
+    },
+    "9": "Övriga Ställen som ej kan kategoriseras"
+}
